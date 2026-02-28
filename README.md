@@ -84,7 +84,7 @@ streamlit run app.py
 ### 📸 Image Upload Detection
 
 ### 😠 Angry Upload
-![Angry Upload](angry%202.png)
+![Angry Upload](upload%20angry%202.png)
 
 ### 😊 Happy Upload
 ![Happy Upload](upload%20happy%202.png)
