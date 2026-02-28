@@ -1,0 +1,8 @@
+opencv-python
+deepface
+tf-keras
+streamlit
+plotly
+numpy
+tensorflow-macos
+tensorflow-metal
