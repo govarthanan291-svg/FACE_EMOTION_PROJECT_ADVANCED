@@ -138,7 +138,7 @@ if st.session_state.running:
                 height=250,
                 margin=dict(l=0, r=0, t=0, b=0)
             )
-            graph_placeholder.plotly_chart(fig, use_container_width=True)
+            graph_placeholder.plotly_chart(fig, use_container_width=True, key=f"chart_{frame_count}")
 
         emotion_counts = {e: sum(st.session_state.emotion_history[e]) for e in EMOTIONS}
         stats_placeholder.markdown('\n'.join([
