@@ -1,8 +1,7 @@
-opencv-python
-deepface
-tf-keras
 streamlit
-plotly
+opencv-python-headless
 numpy
-tensorflow-macos
-tensorflow-metal
+plotly
+tensorflow==2.20.0
+tf-keras
+h5py
